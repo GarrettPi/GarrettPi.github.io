@@ -1,0 +1,15 @@
+#headBox {
+  width: auto;
+  height: 125px;
+  background-color: #CCCCCC;
+  text-align: center;
+}
+
+#headNav a {
+  padding: 10px;
+  background-color: lightgrey;
+}
+
+#headNav a:hover{
+  background-color: white;
+}
