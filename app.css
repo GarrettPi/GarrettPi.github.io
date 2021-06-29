@@ -13,3 +13,11 @@
 #headNav a:hover{
   background-color: white;
 }
+
+.blogPost{
+  text-align: center;
+}
+
+.date{
+  padding-left: 250px;
+}
