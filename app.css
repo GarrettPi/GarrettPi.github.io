@@ -16,8 +16,11 @@
 
 .blogPost{
   text-align: center;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 
 .date{
+  font-weight: bold;
   padding-left: 250px;
 }
